@@ -1,0 +1,22 @@
+.heading
+{
+    font-size: 23px;
+    width: 80%;
+    margin: 0px;
+
+}
+#status
+{
+    font-size: 20px;
+    width: 20%;
+
+}
+#text{
+    background: linear-gradient(#3734eb, #7621c4);
+    width: 50%;
+    height: 80px;
+    font-size: 23px;
+    margin-top: 700px;
+    border-radius: 10px;
+    color: white;
+}
