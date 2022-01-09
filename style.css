@@ -1,0 +1,23 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background: linear-gradient(#3734eb, #7621c4);
+}
+.heading:hover
+{
+    box-shadow: 5px 5px 10px gray;
+    background: linear-gradient(#7621c4,#3734eb);
+}
+body{
+    background-size: cover;
+}
+.anchor{
+    font-size: 20px;
+    width: 10%;
+    height: 50px;
+    margin: 30px;
+    background: rgb(189, 45, 74);
+    border-radius: 10px;
+}
